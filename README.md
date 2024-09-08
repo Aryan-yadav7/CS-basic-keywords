@@ -114,5 +114,22 @@ b. public- It has 3 which are- AWS(Amazon Web Service), GCP(Google Cloud Platfor
 
 ![image](https://github.com/user-attachments/assets/d515a8e8-73f8-4131-aa4c-3d5b86a25e70)
 
+16. Size in 2^n
+a. 2^10 = 1kb
+b. 2^20 = 1mb
+c. 2^30 = 1gb
+and IPv6 is 2^128
 
+IP address is of 32 bits or 4 bytes like 192.168.x.y each no. takes 8 bits like in this case it has 4 numbers written in form of a.b.x.y and this 8bit (one number) called OCTET.
 
+17. DEVOPS- DevOps is a software development practice that combines the words "development" and "operation" to describe the process of integrating these two disciplines into a single, continuous process. DevOps can help organizations deliver applications and services faster by:
+
+Breaking down silos - DevOps unifies people, processes, and technology across traditionally siloed roles like development, IT operations, quality engineering, and security.
+
+Enabling collaboration - DevOps allows coordination and collaboration between teams that have different priorities, tasks and timelines.
+
+Accelerating delivery- DevOps can speed up the delivery of code to production by incorporating automated, prescheduled code tests as the application code is being written or updated.
+
+Improving products - DevOps can help organizations evolve and improve products at a faster pace.
+
+![image](https://github.com/user-attachments/assets/12b7150f-e591-4068-b9f6-baf8502cfb4f)
