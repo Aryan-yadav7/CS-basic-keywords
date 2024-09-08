@@ -72,4 +72,4 @@ C.4 PORT- Port addressess, or port numbers are 16 bit unsigned integers that are
 
 ![6251358958874902087](https://github.com/user-attachments/assets/1a713719-2ff7-4b17-a437-a8035d58664c)
 
-
+3. BLOCKCHAIN- Blockchain is a decentralized, distributed database technology that stores data in blocks linked together in a chain. It is used to record transacations and track assets in a business network like Bitcoin. Its key features- Transperency, Immutability( 
