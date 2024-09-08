@@ -72,4 +72,47 @@ C.4 PORT- Port addressess, or port numbers are 16 bit unsigned integers that are
 
 ![6251358958874902087](https://github.com/user-attachments/assets/1a713719-2ff7-4b17-a437-a8035d58664c)
 
-3. BLOCKCHAIN- Blockchain is a decentralized, distributed database technology that stores data in blocks linked together in a chain. It is used to record transacations and track assets in a business network like Bitcoin. Its key features- Transperency, Immutability( 
+3. BLOCKCHAIN- Blockchain is a decentralized, distributed database technology that stores data in blocks linked together in a chain. It is used to record transacations and track assets in a business network like Bitcoin. Its key features- Transperency, Immutability (can't be deletedor modified without consensus from the network), Security, Decentralization.
+
+![image](https://github.com/user-attachments/assets/c5c9fdc4-16a2-4d52-a249-fac9fd236669)
+
+4. OS (Operating System)- Operating system is systems software that manages computer hardware and software resources and provide common service for computer programs. It acts as an intermediary between user and computer hardware. Some famous and commonly used operating system are Windows, Mac OS, Linus.
+
+![6251358958874902094](https://github.com/user-attachments/assets/40b5518b-c23d-4959-91a5-b5ad78f3e591)
+
+5. KERNEL- The Kernel is a core component of an operating system and serves as the main interface between the computer's physical hardware and processes running on it.
+
+6. BARE METAL- Bare Metal refers to a computer system or server that runs without a layer of abstraction such as virtulization layer or operating system. In this context, bare metal means the hardware is directly utilized for a single application or workload, allowing for maximum performance and control.
+
+7. CLOUD COMPUTING- Cloud computing is the delivery of computing resources over the internet, or "the cloud", on-demand and without requiring direct management by the user. TYPES-
+
+a. Private- like openstack
+
+b. public- It has 3 which are- AWS(Amazon Web Service), GCP(Google Cloud Platform), Azure(Microsoft)
+
+8. VM- A virtual machine (VM) is a software-based computer that acts like a physical computer, but uses virtual resources instead of physical components. VMs can perform many of the same function as a physical computer such as running programs and operating systems, storinf data, and connecting to networks.
+
+![6251358958874902090](https://github.com/user-attachments/assets/3cb3f95a-9069-49cc-beeb-ed53e23082fe)
+
+9. ALGORITHM- An algorithm is a set of instruction that a computer follows to perform calculattions or solve problems. Algorithms are finite sets of instruction that are carried out in a specific order.
+
+![6246507080349499107](https://github.com/user-attachments/assets/d4ad0ad5-ca0f-45f7-915a-b89b9b188e2b)
+
+10.IPv6 - Internet Protocol version 6 (IPv6) is the latest version of internete protocol (IP) and is the successor to IPv4. IPv6 is important because its intended to address the problem of IPv4 address exhaustion and to support growing demand for internet connectivity.
+
+11. KUBERNETES - kubernetes is open-source software that helps deploy, manage, and scale containerized application and also called k8s.
+
+12. API - Application Programming interface allow developers to sync data between multiple platforms and can facililate communication among the various microservices in web applications. OR An API (Applicaition Programming Interface) is a bridge between the front end and back end of an applicatioin. While backend developers usually create APIs, front end developers need to know how to use them.
+
+13. FRONTEND - HTML, CSS, JAVASCRIPT.
+
+14. BACKEND - FRAMEWORK LIKE PYTHON(django).
+
+![6251358958874902088](https://github.com/user-attachments/assets/2a5681c0-22a2-4ee3-8b28-677c5ca6d12c)
+
+15. BINARY NUMBER - Is in 0's and 1's and can be determined as 2^n.
+
+![image](https://github.com/user-attachments/assets/d515a8e8-73f8-4131-aa4c-3d5b86a25e70)
+
+
+
