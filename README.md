@@ -104,9 +104,9 @@ b. public- It has 3 which are- AWS(Amazon Web Service), GCP(Google Cloud Platfor
 
 12. API - Application Programming interface allow developers to sync data between multiple platforms and can facililate communication among the various microservices in web applications. OR An API (Applicaition Programming Interface) is a bridge between the front end and back end of an applicatioin. While backend developers usually create APIs, front end developers need to know how to use them.
 
-13. FRONTEND - HTML, CSS, JAVASCRIPT.
+13. FRONTEND - Frontend Development is the development or creation of a user interface using some markup languages like HTML, CSS, JAVASCRIPT and other tools. It is the development of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignment, etc are involved and used by the user.
 
-14. BACKEND - FRAMEWORK LIKE PYTHON(django).
+14. BACKEND - Backend Development involves the logic, database and other operations that are built behind the scenes to tun the web servers efficiently. It uses FRAMEWORK LIKE PYTHON(django).
 
 ![6251358958874902088](https://github.com/user-attachments/assets/2a5681c0-22a2-4ee3-8b28-677c5ca6d12c)
 
@@ -133,3 +133,32 @@ Accelerating delivery- DevOps can speed up the delivery of code to production by
 Improving products - DevOps can help organizations evolve and improve products at a faster pace.
 
 ![image](https://github.com/user-attachments/assets/12b7150f-e591-4068-b9f6-baf8502cfb4f)
+
+18. NIC (Network Interface Controller) - A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter and physical network interface) is a computer hardware component that connects a computer network.
+![image](https://github.com/user-attachments/assets/5f100aac-0d05-44a9-90dc-9241ead4f79e)
+
+19. Ethernet - Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN), and wide area network (WAN)
+![image](https://github.com/user-attachments/assets/c4918b22-2c9c-475a-9b85-ac24b88a5db7)
+
+20. OSI (Open System Interconnection) - The Open System Interconnection (OSI) model is a reference model from the International Organization for Standardization (ISO) that provide a common basis for the coordination of standards development for the purpose of system interconnection.
+
+21. The 7 layers of OSI model-
+
+   ![image](https://github.com/user-attachments/assets/33887778-661f-441c-bcfa-accc1cc64fe7)
+
+*Layer 7 : Application Layer - The application layer is used by end-user software such as web browsers and email clients.
+
+*Layer 6 : Presentation Layer - The presentation layer prepares data for the application layer. It defines how two devices should encode, encrypt, and compresses data so it is received correctly on the other end.
+
+*Layer 5 : Session Layer - The session layer creates communication channels, called sessions, between devices.
+
+*Layer 4 : Transport Layer - The transport layer takes data transferred in the session layer and breaks it into “segments” on the transmitting end.
+
+*Layer 3 : Networking Layer - The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
+
+*Layer 2 : Data-Link-Layer - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
+
+*Layer 1 : Physical Layer - The physical layer is responsible for the physical cable or wireless connection between network nodes.
+
+22. Application - 
+An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users. Word processors, media players, and accounting software are examples. 
