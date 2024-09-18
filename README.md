@@ -168,3 +168,6 @@ An application program (software application, or application, or app for short) 
 24. DNS- Domain Name System (DNS)  is  a network of computers that converts web addresses into IP addresses.
 
 25. IP- An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
+
+![image](https://github.com/user-attachments/assets/1008ca2a-9310-4a8d-814b-db2ec7eaa3ef)
+
