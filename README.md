@@ -162,3 +162,9 @@ Improving products - DevOps can help organizations evolve and improve products a
 
 22. Application - 
 An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users. Word processors, media players, and accounting software are examples. 
+
+23.INTERNET- A communication system that connects computers and computer networks all over the world.
+
+24. DNS- Domain Name System (DNS)  is  a network of computers that converts web addresses into IP addresses.
+
+25. IP- An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
