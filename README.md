@@ -1,4 +1,5 @@
-1. COMPUTER: A computer is an electronic device that takes raw data from the user and proceses it. It can be programmed to automatically carry out sequences of logical or arithmetical operations. A computer is mainly devided into three parts-
+ # COMPUTER
+A computer is an electronic device that takes raw data from the user and proceses it. It can be programmed to automatically carry out sequences of logical or arithmetical operations. A computer is mainly devided into three parts-
 A. Computation-
 
 A.1 CPU: A CPU stands for central processing unit, which is the primary component of the computer that acts as its control center. 
@@ -72,49 +73,61 @@ C.4 PORT- Port addressess, or port numbers are 16 bit unsigned integers that are
 
 ![6251358958874902087](https://github.com/user-attachments/assets/1a713719-2ff7-4b17-a437-a8035d58664c)
 
-3. BLOCKCHAIN- Blockchain is a decentralized, distributed database technology that stores data in blocks linked together in a chain. It is used to record transacations and track assets in a business network like Bitcoin. Its key features- Transperency, Immutability (can't be deletedor modified without consensus from the network), Security, Decentralization.
+# BLOCKCHAIN 
+Blockchain is a decentralized, distributed database technology that stores data in blocks linked together in a chain. It is used to record transacations and track assets in a business network like Bitcoin. Its key features- Transperency, Immutability (can't be deletedor modified without consensus from the network), Security, Decentralization.
 
 ![image](https://github.com/user-attachments/assets/c5c9fdc4-16a2-4d52-a249-fac9fd236669)
 
-4. OS (Operating System)- Operating system is systems software that manages computer hardware and software resources and provide common service for computer programs. It acts as an intermediary between user and computer hardware. Some famous and commonly used operating system are Windows, Mac OS, Linus.
+# OS (Operating System) 
+Operating system is systems software that manages computer hardware and software resources and provide common service for computer programs. It acts as an intermediary between user and computer hardware. Some famous and commonly used operating system are Windows, Mac OS, Linus.
 
 ![6251358958874902094](https://github.com/user-attachments/assets/40b5518b-c23d-4959-91a5-b5ad78f3e591)
 
-5. KERNEL- The Kernel is a core component of an operating system and serves as the main interface between the computer's physical hardware and processes running on it.
+# KERNEL
+The Kernel is a core component of an operating system and serves as the main interface between the computer's physical hardware and processes running on it.
 
-6. BARE METAL- Bare Metal refers to a computer system or server that runs without a layer of abstraction such as virtulization layer or operating system. In this context, bare metal means the hardware is directly utilized for a single application or workload, allowing for maximum performance and control.
+# BARE METAL
+Bare Metal refers to a computer system or server that runs without a layer of abstraction such as virtulization layer or operating system. In this context, bare metal means the hardware is directly utilized for a single application or workload, allowing for maximum performance and control.
 
-7. CLOUD COMPUTING- Cloud computing is the delivery of computing resources over the internet, or "the cloud", on-demand and without requiring direct management by the user. TYPES-
+# CLOUD COMPUTING
+Cloud computing is the delivery of computing resources over the internet, or "the cloud", on-demand and without requiring direct management by the user. TYPES-
 
 a. Private- like openstack
 
 b. public- It has 3 which are- AWS(Amazon Web Service), GCP(Google Cloud Platform), Azure(Microsoft)
 
-8. VM- A virtual machine (VM) is a software-based computer that acts like a physical computer, but uses virtual resources instead of physical components. VMs can perform many of the same function as a physical computer such as running programs and operating systems, storinf data, and connecting to networks.
+# VM 
+A virtual machine (VM) is a software-based computer that acts like a physical computer, but uses virtual resources instead of physical components. VMs can perform many of the same function as a physical computer such as running programs and operating systems, storinf data, and connecting to networks.
 
 ![6251358958874902090](https://github.com/user-attachments/assets/3cb3f95a-9069-49cc-beeb-ed53e23082fe)
 
-9. ALGORITHM- An algorithm is a set of instruction that a computer follows to perform calculattions or solve problems. Algorithms are finite sets of instruction that are carried out in a specific order.
+# ALGORITHM
+An algorithm is a set of instruction that a computer follows to perform calculattions or solve problems. Algorithms are finite sets of instruction that are carried out in a specific order.
 
 ![6246507080349499107](https://github.com/user-attachments/assets/d4ad0ad5-ca0f-45f7-915a-b89b9b188e2b)
 
-10.IPv6 - Internet Protocol version 6 (IPv6) is the latest version of internete protocol (IP) and is the successor to IPv4. IPv6 is important because its intended to address the problem of IPv4 address exhaustion and to support growing demand for internet connectivity.
+# IPv6 
+Internet Protocol version 6 (IPv6) is the latest version of internete protocol (IP) and is the successor to IPv4. IPv6 is important because its intended to address the problem of IPv4 address exhaustion and to support growing demand for internet connectivity.
+# KUBERNETES 
+kubernetes is open-source software that helps deploy, manage, and scale containerized application and also called k8s.
 
-11. KUBERNETES - kubernetes is open-source software that helps deploy, manage, and scale containerized application and also called k8s.
+# API  
+Application Programming interface allow developers to sync data between multiple platforms and can facililate communication among the various microservices in web applications. OR An API (Applicaition Programming Interface) is a bridge between the front end and back end of an applicatioin. While backend developers usually create APIs, front end developers need to know how to use them.
 
-12. API - Application Programming interface allow developers to sync data between multiple platforms and can facililate communication among the various microservices in web applications. OR An API (Applicaition Programming Interface) is a bridge between the front end and back end of an applicatioin. While backend developers usually create APIs, front end developers need to know how to use them.
+# FRONTEND 
+Frontend Development is the development or creation of a user interface using some markup languages like HTML, CSS, JAVASCRIPT and other tools. It is the development of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignment, etc are involved and used by the user.
 
-13. FRONTEND - Frontend Development is the development or creation of a user interface using some markup languages like HTML, CSS, JAVASCRIPT and other tools. It is the development of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignment, etc are involved and used by the user.
-
-14. BACKEND - Backend Development involves the logic, database and other operations that are built behind the scenes to tun the web servers efficiently. It uses FRAMEWORK LIKE PYTHON(django).
+# BACKEND 
+Backend Development involves the logic, database and other operations that are built behind the scenes to tun the web servers efficiently. It uses FRAMEWORK LIKE PYTHON(django).
 
 ![6251358958874902088](https://github.com/user-attachments/assets/2a5681c0-22a2-4ee3-8b28-677c5ca6d12c)
 
-15. BINARY NUMBER - Is in 0's and 1's and can be determined as 2^n.
+# BINARY NUMBER 
+Is in 0's and 1's and can be determined as 2^n.
 
 ![image](https://github.com/user-attachments/assets/d515a8e8-73f8-4131-aa4c-3d5b86a25e70)
 
-16. Size in 2^n
+# Size in 2^n
 a. 2^10 = 1kb
 b. 2^20 = 1mb
 c. 2^30 = 1gb
@@ -122,7 +135,8 @@ and IPv6 is 2^128
 
 IP address is of 32 bits or 4 bytes like 192.168.x.y each no. takes 8 bits like in this case it has 4 numbers written in form of a.b.x.y and this 8bit (one number) called OCTET.
 
-17. DEVOPS- DevOps is a software development practice that combines the words "development" and "operation" to describe the process of integrating these two disciplines into a single, continuous process. DevOps can help organizations deliver applications and services faster by:
+# DEVOPS 
+DevOps is a software development practice that combines the words "development" and "operation" to describe the process of integrating these two disciplines into a single, continuous process. DevOps can help organizations deliver applications and services faster by:
 
 Breaking down silos - DevOps unifies people, processes, and technology across traditionally siloed roles like development, IT operations, quality engineering, and security.
 
@@ -134,15 +148,18 @@ Improving products - DevOps can help organizations evolve and improve products a
 
 ![image](https://github.com/user-attachments/assets/12b7150f-e591-4068-b9f6-baf8502cfb4f)
 
-18. NIC (Network Interface Controller) - A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter and physical network interface) is a computer hardware component that connects a computer network.
+# NIC (Network Interface Controller) 
+A network interface controller (NIC, also known as a network interface card, network adapter, LAN adapter and physical network interface) is a computer hardware component that connects a computer network.
 ![image](https://github.com/user-attachments/assets/5f100aac-0d05-44a9-90dc-9241ead4f79e)
 
-19. Ethernet - Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN), and wide area network (WAN)
+# Ethernet 
+Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN), and wide area network (WAN)
 ![image](https://github.com/user-attachments/assets/c4918b22-2c9c-475a-9b85-ac24b88a5db7)
 
-20. OSI (Open System Interconnection) - The Open System Interconnection (OSI) model is a reference model from the International Organization for Standardization (ISO) that provide a common basis for the coordination of standards development for the purpose of system interconnection.
+# OSI (Open System Interconnection) 
+The Open System Interconnection (OSI) model is a reference model from the International Organization for Standardization (ISO) that provide a common basis for the coordination of standards development for the purpose of system interconnection.
 
-21. The 7 layers of OSI model-
+# The 7 layers of OSI model-
 
    ![image](https://github.com/user-attachments/assets/33887778-661f-441c-bcfa-accc1cc64fe7)
 
@@ -160,14 +177,17 @@ Improving products - DevOps can help organizations evolve and improve products a
 
 *Layer 1 : Physical Layer - The physical layer is responsible for the physical cable or wireless connection between network nodes.
 
-22. Application - 
+# Application  
 An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users. Word processors, media players, and accounting software are examples. 
 
-23.INTERNET- A communication system that connects computers and computer networks all over the world.
+# INTERNET 
+A communication system that connects computers and computer networks all over the world.
 
-24. DNS- Domain Name System (DNS)  is  a network of computers that converts web addresses into IP addresses.
+# DNS
+Domain Name System (DNS)  is  a network of computers that converts web addresses into IP addresses.
 
-25. IP- An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
+# IP 
+An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
 
 ![image](https://github.com/user-attachments/assets/1008ca2a-9310-4a8d-814b-db2ec7eaa3ef)
 
