@@ -1,3 +1,9 @@
+# Cloud Computing 
+cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+![17307774414418712033551721005272](https://github.com/user-attachments/assets/0859bf58-0ace-4419-aac2-f4696f2b21dd)
+# Docker
+Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
+
  # 1. Host a website using Docker and Nginx <br/>
  - Login to your AWS account and download your passkey and launch the EC2 instance.  
 - Launch PuTTY and add the IP address from instance and add key pair file and open the PuTTY terminal.
